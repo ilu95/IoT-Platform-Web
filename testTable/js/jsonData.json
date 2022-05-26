@@ -1,0 +1,33 @@
+{
+  "data": [
+    { "first": "23호실", "second": "Lv37", "third": "시간45" },
+    { "first": "23호실", "second": "Lv37", "third": "시간45" },
+    { "first": "24호실", "second": "Lv39", "third": "시간49" },
+    { "first": "25호실", "second": "Lv39", "third": "시간49" },
+    { "first": "25호실", "second": "Lv38", "third": "시간46" },
+    { "first": "24호실", "second": "Lv35", "third": "시간43" },
+    { "first": "25호실", "second": "Lv38", "third": "시간49" },
+    { "first": "26호실", "second": "Lv41", "third": "시간50" },
+    { "first": "25호실", "second": "Lv41", "third": "시간51" },
+    { "first": "26호실", "second": "Lv41", "third": "시간52" },
+    { "first": "25호실", "second": "Lv39", "third": "시간48" },
+    { "first": "27호실", "second": "Lv42", "third": "시간53" },
+    { "first": "26호실", "second": "Lv42", "third": "시간49" },
+    { "first": "25호실", "second": "Lv42", "third": "시간50" },
+    { "first": "26호실", "second": "Lv41", "third": "시간49" },
+    { "first": "26호실", "second": "Lv39", "third": "시간49" },
+    { "first": "26호실", "second": "Lv39", "third": "시간49" },
+    { "first": "25호실", "second": "Lv39", "third": "시간47" },
+    { "first": "24호실", "second": "Lv40", "third": "시간47" },
+    { "first": "25호실", "second": "Lv41", "third": "시간50" },
+    { "first": "25호실", "second": "Lv40", "third": "시간48" },
+    { "first": "26호실", "second": "Lv42", "third": "시간50" },
+    { "first": "25호실", "second": "Lv40", "third": "시간48" },
+    { "first": "27호실", "second": "Lv41", "third": "시간50" },
+    { "first": "27호실", "second": "Lv40", "third": "시간48" },
+    { "first": "27호실", "second": "Lv41", "third": "시간49" },
+    { "first": "27호실", "second": "Lv41", "third": "시간51" },
+    { "first": "28호실", "second": "Lv43", "third": "시간53" },
+    { "first": "28호실", "second": "Lv30", "third": "시간48" }
+  ]
+}
